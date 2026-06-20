@@ -39,7 +39,7 @@ Managed Table (s_redbus)
         |                   |
         v                   v
 Dimension Tables      Fact Table
-(dim_customer)        (fact_booking)
+(dim_customer)        (fact)
 (dim_route)
 (dim_bus)
 (dim_payment)
